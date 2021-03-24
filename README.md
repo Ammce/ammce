@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Ammce/ammce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Inspired by: “**Sometimes it is the people no one can imagine anything of who do the things no one can imagine.**” - Alan Touring
+<hr>
 
-Here are some ideas to get you started:
+### Things I love the most 💚:
+- Node.js
+- Mexican food
+- React
+- Travelling
+- MongoDB
+- Airplanes
+- GraphQL
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I am learning rn 🎓: 
+- GoLang and Rust
+<hr>
+
+### Social Media 💻:
+- [Instagram](https://instagram.com/ammce)
+- [Twitter](https://twitter.com/HighSerendipity)
+- [amelmuminovic.com](https://www.amelmuminovic.com/)
