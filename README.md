@@ -11,6 +11,7 @@
 - MongoDB
 - Airplanes
 - GraphQL
+- Cats
 <hr>
 
 ### Things I am learning rn 🎓: 
