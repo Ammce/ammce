@@ -6,16 +6,19 @@
 ### Things I love the most 💚:
 - Node.js
 - Mexican food
-- React
+- Go
 - Travelling
-- MongoDB
+- MongoDB and Neo4j
 - Airplanes
 - GraphQL
 - Cats
+- React
 <hr>
 
-### Things I am learning rn 🎓: 
-- GoLang and Rust
+### Things I am learning in 2022 🎓: 
+- Kubernetes / Terraform 
+- gRPC
+- Blockchain / web3
 <hr>
 
 ### Social Media 💻:
