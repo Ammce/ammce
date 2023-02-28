@@ -25,3 +25,6 @@
 - [Instagram](https://instagram.com/ammce)
 - [Twitter](https://twitter.com/HighSerendipity)
 - [amelmuminovic.com](https://www.amelmuminovic.com/)
+
+
+![contributions](https://github-readme-activity-graph.cyclic.app/graph?username=ammce&theme=material-palenight	)
