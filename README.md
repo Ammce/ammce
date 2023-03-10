@@ -5,20 +5,21 @@
 
 ### Things I love the most 💚:
 - Node.js
-- Mexican food
+- Spicy food
 - Go
 - Travelling
-- MongoDB and Neo4j
+- Discussions about system design and software architectures
 - Airplanes
 - GraphQL
 - Cats
 - React
 <hr>
 
-### Things I am learning in 2022 🎓: 
-- Kubernetes / Terraform 
-- gRPC
+### Things I am learning in 2023 🎓: 
+- Kubernetes
+- Terraform
 - Blockchain / web3
+- AI Basics
 <hr>
 
 ### Social Media 💻:
