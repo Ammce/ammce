@@ -13,14 +13,6 @@
 - GraphQL
 - Cats
 - React
-<hr>
-
-### Things I am learning in 2023 🎓: 
-- Kubernetes
-- Terraform
-- Blockchain / web3
-- AI Basics
-<hr>
 
 ### Social Media 💻:
 - [Instagram](https://instagram.com/ammce)
